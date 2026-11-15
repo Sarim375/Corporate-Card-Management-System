@@ -22,9 +22,9 @@ I designed and built a **high-fidelity, fully interactive prototype** of this po
 ## My Role
 
 - Designed the information architecture, screen layouts and workflows from the business requirements.
-- Built all 12 screens as a clickable prototype with realistic interactive behaviour.
+- Built every screen (about a dozen) as a clickable prototype with realistic interactive behaviour.
 - Ran several review rounds with stakeholders and turned their feedback into concrete domain rules.
-- Produced a 26-page user manual with field-level documentation and automatically captured screenshots.
+- Produced a user manual of more than 20 pages with field-level documentation and automatically captured screenshots.
 
 ## Key Features
 
